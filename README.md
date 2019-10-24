@@ -19,3 +19,7 @@ code --list-extensions > extensions.list
 ```
 cat extensions.list | % { code --install-extension $_}
 ```
+## 操作参考地址：
+```
+  https://365airsoft.com/zh-CN/questions/1218029/ruhedaochuvs-codekuozhanmingliebiao
+```
